@@ -1,0 +1,31 @@
+﻿@using Bootstrap.Models;
+
+@model IEnumerable<VoltageTransformerModel>
+<div class="top-buffer"></div>
+<div class="panel panel-primary">
+    <div class="panel-heading panel-head">VoltageTransformers</div>
+    <div class="panel-body">
+        <div class="top-buffer"></div>
+        <table class="table table-dark">
+            <thead>
+                <tr>
+                    <th>voltageTransformerNumber</th>
+                    <th>voltageTransformerType</th>
+                    <th>voltageTransformerDate</th>
+                    <th>voltageTransformerKoeff</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.voltageTransformerNumber)</td>
+                    <td>@Html.DisplayFor(modelItem => item.voltageTransformerType)</td>
+                    <td>@Html.DisplayFor(modelItem => item.voltageTransformerDate)</td>
+                    <td>@Html.DisplayFor(modelItem => item.voltageTransformerKoeff)</td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

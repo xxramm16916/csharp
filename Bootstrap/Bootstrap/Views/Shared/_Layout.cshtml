@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <title></title>
+</head>
+<body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <form class="form-inline" action='@Url.Action("GetCurrentTransformerModel", "TNE",
+                   new{ controller = "TNE", action = "GetCurrentTransformerModel"}, null)' class="form-inline" method="POST">
+                    <div class="mr-2"><button type="submit" class="btn btn-secondary">GetCurrentTransformerModel</button></div>
+                    <div><input placeholder="Enter consObj" name="consObj" runat="server"></div>
+                    <div class="mr-5"> - Трансформаторы тока с закончившимся сроком поверке по объекту</div>
+                </form>
+            </div>
+            <div class="navbar-collapse collapse">
+            </div>
+        </div>
+    </div>
+
+    <hr color="blue">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <form class="form-inline" action='@Url.Action("GetElectricEnergyMeterModel", "TNE",
+                   new{ controller = "TNE", action = "GetElectricEnergyMeterModel"}, null)' class="form-inline" method="POST">
+                    <div class="mr-2"><button type="submit" class="btn btn-secondary">GetElectricEnergyMeterModel</button></div>
+                    <div><input placeholder="Enter consObj" name="consObj" runat="server"></div>
+                    <div class="mr-5"> - Счетчики с закончившимся сроком поверке по объекту</div>
+                </form>
+            </div>
+            <div class="navbar-collapse collapse">
+            </div>
+        </div>
+    </div>
+
+    <hr color="blue">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <form class="form-inline" action='@Url.Action("GetVoltageTransformerModel", "TNE",
+                   new{ controller = "TNE", action = "GetVoltageTransformerModel"}, null)' class="form-inline" method="POST">
+                    <div class="mr-2"><button type="submit" class="btn btn-secondary">GetVoltageTransformerModel</button></div>
+                    <div><input placeholder="Enter consObj" name="consObj" runat="server"></div>
+                    <div class="mr-5"> - Трансформаторы тока с закончившимся сроком поверке по объекту</div>
+                </form>
+            </div>
+            <div class="navbar-collapse collapse">
+            </div>
+        </div>
+    </div>
+
+    <hr color="blue">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <form class="form-inline" action='@Url.Action("GetMeteringDeviceModel", "TNE",
+                   new{ controller = "TNE", action = "GetMeteringDeviceModel"}, null)' class="form-inline" method="POST">
+                    <div class="mr-2"><button type="submit" class="btn btn-secondary">GetMeteringDeviceModel</button></div>
+                    <div><input placeholder="Enter year" name="year" runat="server"></div>
+                    <div class="mr-5"> -  Все расчетные приборы учета в n-ом году</div>
+                </form>
+            </div>
+            <div class="navbar-collapse collapse">
+            </div>
+        </div>
+    </div>
+
+    <hr color="blue">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <form action='@Url.Action("GetAddEMPModel", "TNE",
+                   new{ controller = "TNE", action = "GetAddEMPModel"}, null)' method="POST">
+                    <div class="mr-5">Добавить новую точку измерения:  Choose consObj: <input value="ServerRoom" placeholder="Enter consObj" name="consObj" runat="server" size="50"></div>
+                    <div class="mb-2">electricityMeasurementPointName: <input value="222" placeholder="Enter electricityMeasurementPointName" name="electricityMeasurementPointName" runat="server" size="50"></div>
+                    <div class="mb-2">electricEnergyMeterNumber: <input value="1" placeholder="Enter electricEnergyMeterNumber" name="electricEnergyMeterNumber" runat="server" size="50"></div>
+                    <div class="mb-2">electricEnergyMeterType: <input value="aaa" placeholder="Enter electricEnergyMeterType" name="electricEnergyMeterType" runat="server" size="50"></div>
+                    <div class="mb-2">electricEnergyMeterDate: <input value="2017-06-01T08:30" id="datetime" type="datetime-local" name="electricEnergyMeterDate" runat="server"></div>
+                    <div class="mb-2">voltageTransformerNumber: <input value="1" placeholder="Enter voltageTransformerNumber" name="voltageTransformerNumber" runat="server" size="50"></div>
+                    <div class="mb-2">voltageTransformerType: <input value="1" placeholder="Enter voltageTransformerType" name="voltageTransformerType" runat="server" size="50"></div>
+                    <div class="mb-2">voltageTransformerDate: <input value="2017-06-01T08:30" id="datetime" type="datetime-local" name="voltageTransformerDate" runat="server"></div>
+                    <div class="mb-2">voltageTransformerKoeff: <input value="1" placeholder="Enter voltageTransformerKoeff" name="voltageTransformerKoeff" runat="server" size="50"></div>
+                    <div class="mb-2">currentTransformerNumber: <input value="1" placeholder="Enter currentTransformerNumber" name="currentTransformerNumber" runat="server" size="50"></div>
+                    <div class="mb-2">currentTransformerType: <input value="aaa" placeholder="Enter currentTransformerType" name="currentTransformerType" runat="server" size="50"></div>
+                    <div class="mb-2">currentTransformerDate: <input value="2017-06-01T08:30" id="datetime" type="datetime-local" name="currentTransformerDate" runat="server"></div>
+                    <div class="mb-2">currentTransformerKoeff: <input value="1" placeholder="Enter currentTransformerKoeff" name="currentTransformerKoeff" runat="server" size="50"></div>
+                    <div class="mr-2"><button type="submit" class="btn btn-secondary">AddEMP</button></div>
+                </form>
+            </div>
+            <div class="navbar-collapse collapse">
+            </div>
+        </div>
+    </div>
+    <hr color="blue">
+
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+    <script src="Scripts/jquery-3.0.0.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/popper.min.js"></script>
+    <script src="Scripts/request/getDb.js"></script>
+</body>
+</html>
