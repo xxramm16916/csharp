@@ -1,0 +1,11 @@
+C:\Users\xxramm\source\repos\RabbitMQ\ConsumerKafka\bin\Debug\netcoreapp2.2\ConsumerKafka.deps.json
+C:\Users\xxramm\source\repos\RabbitMQ\ConsumerKafka\bin\Debug\netcoreapp2.2\ConsumerKafka.runtimeconfig.json
+C:\Users\xxramm\source\repos\RabbitMQ\ConsumerKafka\bin\Debug\netcoreapp2.2\ConsumerKafka.runtimeconfig.dev.json
+C:\Users\xxramm\source\repos\RabbitMQ\ConsumerKafka\bin\Debug\netcoreapp2.2\ConsumerKafka.dll
+C:\Users\xxramm\source\repos\RabbitMQ\ConsumerKafka\obj\Debug\netcoreapp2.2\ConsumerKafka.csprojAssemblyReference.cache
+C:\Users\xxramm\source\repos\RabbitMQ\ConsumerKafka\obj\Debug\netcoreapp2.2\ConsumerKafka.csproj.CoreCompileInputs.cache
+C:\Users\xxramm\source\repos\RabbitMQ\ConsumerKafka\obj\Debug\netcoreapp2.2\ConsumerKafka.AssemblyInfoInputs.cache
+C:\Users\xxramm\source\repos\RabbitMQ\ConsumerKafka\obj\Debug\netcoreapp2.2\ConsumerKafka.AssemblyInfo.cs
+C:\Users\xxramm\source\repos\RabbitMQ\ConsumerKafka\bin\Debug\netcoreapp2.2\ConsumerKafka.pdb
+C:\Users\xxramm\source\repos\RabbitMQ\ConsumerKafka\obj\Debug\netcoreapp2.2\ConsumerKafka.dll
+C:\Users\xxramm\source\repos\RabbitMQ\ConsumerKafka\obj\Debug\netcoreapp2.2\ConsumerKafka.pdb

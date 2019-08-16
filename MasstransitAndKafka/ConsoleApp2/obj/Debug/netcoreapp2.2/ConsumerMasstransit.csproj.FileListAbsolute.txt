@@ -1,0 +1,14 @@
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsumerMasstransit.deps.json
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsumerMasstransit.runtimeconfig.json
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsumerMasstransit.runtimeconfig.dev.json
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsumerMasstransit.dll
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsumerMasstransit.pdb
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\bin\Debug\netcoreapp2.2\ContractMasstransit.dll
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\bin\Debug\netcoreapp2.2\ContractMasstransit.pdb
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsumerMasstransit.csprojAssemblyReference.cache
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsumerMasstransit.csproj.CoreCompileInputs.cache
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsumerMasstransit.AssemblyInfoInputs.cache
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsumerMasstransit.AssemblyInfo.cs
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsumerMasstransit.csproj.CopyComplete
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsumerMasstransit.dll
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsumerMasstransit.pdb

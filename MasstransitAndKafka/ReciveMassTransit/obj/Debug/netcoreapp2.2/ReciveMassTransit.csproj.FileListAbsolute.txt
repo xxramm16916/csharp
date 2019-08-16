@@ -1,0 +1,11 @@
+C:\Users\xxramm\source\repos\RabbitMQ\ReciveMassTransit\bin\Debug\netcoreapp2.2\ReciveMassTransit.deps.json
+C:\Users\xxramm\source\repos\RabbitMQ\ReciveMassTransit\bin\Debug\netcoreapp2.2\ReciveMassTransit.runtimeconfig.json
+C:\Users\xxramm\source\repos\RabbitMQ\ReciveMassTransit\bin\Debug\netcoreapp2.2\ReciveMassTransit.runtimeconfig.dev.json
+C:\Users\xxramm\source\repos\RabbitMQ\ReciveMassTransit\bin\Debug\netcoreapp2.2\ReciveMassTransit.dll
+C:\Users\xxramm\source\repos\RabbitMQ\ReciveMassTransit\obj\Debug\netcoreapp2.2\ReciveMassTransit.csprojAssemblyReference.cache
+C:\Users\xxramm\source\repos\RabbitMQ\ReciveMassTransit\obj\Debug\netcoreapp2.2\ReciveMassTransit.csproj.CoreCompileInputs.cache
+C:\Users\xxramm\source\repos\RabbitMQ\ReciveMassTransit\obj\Debug\netcoreapp2.2\ReciveMassTransit.AssemblyInfoInputs.cache
+C:\Users\xxramm\source\repos\RabbitMQ\ReciveMassTransit\obj\Debug\netcoreapp2.2\ReciveMassTransit.AssemblyInfo.cs
+C:\Users\xxramm\source\repos\RabbitMQ\ReciveMassTransit\bin\Debug\netcoreapp2.2\ReciveMassTransit.pdb
+C:\Users\xxramm\source\repos\RabbitMQ\ReciveMassTransit\obj\Debug\netcoreapp2.2\ReciveMassTransit.dll
+C:\Users\xxramm\source\repos\RabbitMQ\ReciveMassTransit\obj\Debug\netcoreapp2.2\ReciveMassTransit.pdb

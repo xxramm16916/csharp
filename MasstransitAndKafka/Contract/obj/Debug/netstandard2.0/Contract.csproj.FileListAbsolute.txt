@@ -1,0 +1,9 @@
+C:\Users\xxramm\source\repos\RabbitMQ\Contract\bin\Debug\netstandard2.0\Contract.deps.json
+C:\Users\xxramm\source\repos\RabbitMQ\Contract\bin\Debug\netstandard2.0\Contract.dll
+C:\Users\xxramm\source\repos\RabbitMQ\Contract\bin\Debug\netstandard2.0\Contract.pdb
+C:\Users\xxramm\source\repos\RabbitMQ\Contract\obj\Debug\netstandard2.0\Contract.csprojAssemblyReference.cache
+C:\Users\xxramm\source\repos\RabbitMQ\Contract\obj\Debug\netstandard2.0\Contract.csproj.CoreCompileInputs.cache
+C:\Users\xxramm\source\repos\RabbitMQ\Contract\obj\Debug\netstandard2.0\Contract.AssemblyInfoInputs.cache
+C:\Users\xxramm\source\repos\RabbitMQ\Contract\obj\Debug\netstandard2.0\Contract.AssemblyInfo.cs
+C:\Users\xxramm\source\repos\RabbitMQ\Contract\obj\Debug\netstandard2.0\Contract.dll
+C:\Users\xxramm\source\repos\RabbitMQ\Contract\obj\Debug\netstandard2.0\Contract.pdb

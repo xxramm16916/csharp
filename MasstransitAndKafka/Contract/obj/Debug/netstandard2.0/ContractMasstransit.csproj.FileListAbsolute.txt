@@ -1,0 +1,9 @@
+C:\Users\xxramm\source\repos\RabbitMQ\Contract\bin\Debug\netstandard2.0\ContractMasstransit.deps.json
+C:\Users\xxramm\source\repos\RabbitMQ\Contract\bin\Debug\netstandard2.0\ContractMasstransit.dll
+C:\Users\xxramm\source\repos\RabbitMQ\Contract\bin\Debug\netstandard2.0\ContractMasstransit.pdb
+C:\Users\xxramm\source\repos\RabbitMQ\Contract\obj\Debug\netstandard2.0\ContractMasstransit.csprojAssemblyReference.cache
+C:\Users\xxramm\source\repos\RabbitMQ\Contract\obj\Debug\netstandard2.0\ContractMasstransit.csproj.CoreCompileInputs.cache
+C:\Users\xxramm\source\repos\RabbitMQ\Contract\obj\Debug\netstandard2.0\ContractMasstransit.AssemblyInfoInputs.cache
+C:\Users\xxramm\source\repos\RabbitMQ\Contract\obj\Debug\netstandard2.0\ContractMasstransit.AssemblyInfo.cs
+C:\Users\xxramm\source\repos\RabbitMQ\Contract\obj\Debug\netstandard2.0\ContractMasstransit.dll
+C:\Users\xxramm\source\repos\RabbitMQ\Contract\obj\Debug\netstandard2.0\ContractMasstransit.pdb

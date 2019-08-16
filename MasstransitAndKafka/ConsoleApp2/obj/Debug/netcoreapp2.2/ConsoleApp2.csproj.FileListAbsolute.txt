@@ -1,0 +1,10 @@
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsoleApp2.deps.json
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsoleApp2.runtimeconfig.json
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsoleApp2.dll
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsoleApp2.pdb
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.AssemblyInfo.cs
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.dll
+C:\Users\xxramm\source\repos\RabbitMQ\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.pdb

@@ -1,0 +1,11 @@
+C:\Users\xxramm\source\repos\RabbitMQ\massTransit\bin\Debug\netcoreapp2.2\massTransitProg.deps.json
+C:\Users\xxramm\source\repos\RabbitMQ\massTransit\bin\Debug\netcoreapp2.2\massTransitProg.runtimeconfig.json
+C:\Users\xxramm\source\repos\RabbitMQ\massTransit\bin\Debug\netcoreapp2.2\massTransitProg.runtimeconfig.dev.json
+C:\Users\xxramm\source\repos\RabbitMQ\massTransit\bin\Debug\netcoreapp2.2\massTransitProg.dll
+C:\Users\xxramm\source\repos\RabbitMQ\massTransit\bin\Debug\netcoreapp2.2\massTransitProg.pdb
+C:\Users\xxramm\source\repos\RabbitMQ\massTransit\obj\Debug\netcoreapp2.2\massTransitProg.csprojAssemblyReference.cache
+C:\Users\xxramm\source\repos\RabbitMQ\massTransit\obj\Debug\netcoreapp2.2\massTransitProg.csproj.CoreCompileInputs.cache
+C:\Users\xxramm\source\repos\RabbitMQ\massTransit\obj\Debug\netcoreapp2.2\massTransitProg.AssemblyInfoInputs.cache
+C:\Users\xxramm\source\repos\RabbitMQ\massTransit\obj\Debug\netcoreapp2.2\massTransitProg.AssemblyInfo.cs
+C:\Users\xxramm\source\repos\RabbitMQ\massTransit\obj\Debug\netcoreapp2.2\massTransitProg.dll
+C:\Users\xxramm\source\repos\RabbitMQ\massTransit\obj\Debug\netcoreapp2.2\massTransitProg.pdb
