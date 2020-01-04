@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [{
+  "library": "vue@2.6.10",
+  "destination": "wwwroot/lib/vue/",
+  "files": [
+    "vue.min.js",
+    "vue.common.js"
+  ]
+}
+,
+{
+  "library": "axios@0.19.0",
+  "destination": "wwwroot/axios/",
+  "files": [
+    "axios.min.js"
+  ]
+}
+,
+{
+  "library": "jquery@3.4.1",
+  "destination": "wwwroot/vuelidate/jquery/"
+}
+]
+}

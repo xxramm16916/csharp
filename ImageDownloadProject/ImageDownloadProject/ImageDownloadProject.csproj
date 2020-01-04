@@ -1,0 +1,79 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\content\bootstrap-grid.css" />
+    <None Include="wwwroot\content\bootstrap-grid.css.map" />
+    <None Include="wwwroot\content\bootstrap-grid.min.css" />
+    <None Include="wwwroot\content\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\content\bootstrap-reboot.css" />
+    <None Include="wwwroot\content\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\content\bootstrap-reboot.min.css" />
+    <None Include="wwwroot\content\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\content\bootstrap.css" />
+    <None Include="wwwroot\content\bootstrap.css.map" />
+    <None Include="wwwroot\content\bootstrap.min.css" />
+    <None Include="wwwroot\content\bootstrap.min.css.map" />
+    <None Include="wwwroot\content\Site.css" />
+    <None Include="wwwroot\scripts\bootstrap.bundle.js" />
+    <None Include="wwwroot\scripts\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\scripts\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\scripts\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\scripts\bootstrap.js" />
+    <None Include="wwwroot\scripts\bootstrap.js.map" />
+    <None Include="wwwroot\scripts\bootstrap.min.js" />
+    <None Include="wwwroot\scripts\bootstrap.min.js.map" />
+    <None Include="wwwroot\scripts\esm\popper-utils.js" />
+    <None Include="wwwroot\scripts\esm\popper-utils.js.map" />
+    <None Include="wwwroot\scripts\esm\popper-utils.min.js" />
+    <None Include="wwwroot\scripts\esm\popper-utils.min.js.map" />
+    <None Include="wwwroot\scripts\esm\popper.js" />
+    <None Include="wwwroot\scripts\esm\popper.js.map" />
+    <None Include="wwwroot\scripts\esm\popper.min.js" />
+    <None Include="wwwroot\scripts\esm\popper.min.js.map" />
+    <None Include="wwwroot\scripts\index.d.ts" />
+    <None Include="wwwroot\scripts\jquery-3.0.0-vsdoc.js" />
+    <None Include="wwwroot\scripts\jquery-3.0.0.js" />
+    <None Include="wwwroot\scripts\jquery-3.0.0.min.js" />
+    <None Include="wwwroot\scripts\jquery-3.0.0.min.map" />
+    <None Include="wwwroot\scripts\jquery-3.0.0.slim.js" />
+    <None Include="wwwroot\scripts\jquery-3.0.0.slim.min.js" />
+    <None Include="wwwroot\scripts\jquery-3.0.0.slim.min.map" />
+    <None Include="wwwroot\scripts\jquery-3.3.1.intellisense.js" />
+    <None Include="wwwroot\scripts\jquery-3.3.1.js" />
+    <None Include="wwwroot\scripts\jquery-3.3.1.min.js" />
+    <None Include="wwwroot\scripts\jquery-3.3.1.min.map" />
+    <None Include="wwwroot\scripts\jquery-3.3.1.slim.js" />
+    <None Include="wwwroot\scripts\jquery-3.3.1.slim.min.js" />
+    <None Include="wwwroot\scripts\jquery-3.3.1.slim.min.map" />
+    <None Include="wwwroot\scripts\modernizr-2.8.3.js" />
+    <None Include="wwwroot\scripts\popper-utils.js" />
+    <None Include="wwwroot\scripts\popper-utils.js.map" />
+    <None Include="wwwroot\scripts\popper-utils.min.js" />
+    <None Include="wwwroot\scripts\popper-utils.min.js.map" />
+    <None Include="wwwroot\scripts\popper.js" />
+    <None Include="wwwroot\scripts\popper.js.map" />
+    <None Include="wwwroot\scripts\popper.min.js" />
+    <None Include="wwwroot\scripts\popper.min.js.map" />
+    <None Include="wwwroot\scripts\README.md" />
+    <None Include="wwwroot\scripts\request\getDb.js" />
+    <None Include="wwwroot\scripts\umd\popper-utils.js" />
+    <None Include="wwwroot\scripts\umd\popper-utils.js.map" />
+    <None Include="wwwroot\scripts\umd\popper-utils.min.js" />
+    <None Include="wwwroot\scripts\umd\popper-utils.min.js.map" />
+    <None Include="wwwroot\scripts\umd\popper.js" />
+    <None Include="wwwroot\scripts\umd\popper.js.map" />
+    <None Include="wwwroot\scripts\umd\popper.min.js" />
+    <None Include="wwwroot\scripts\umd\popper.min.js.map" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.10" />
+  </ItemGroup>
+
+</Project>

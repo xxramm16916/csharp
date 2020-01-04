@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TNE_v2"
+    "\\TNE_v2",
+    "\\TNE_v2\\Service",
+    "\\TNE_v2\\Views",
+    "\\TNE_v2\\Views\\Home",
+    "\\TNE_v2\\Views\\Shared"
   ],
   "SelectedNode": "\\TNE_v2.sln",
   "PreviewInSolutionExplorer": false

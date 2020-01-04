@@ -1,0 +1,87 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+    <div id="app" v-cloack>
+        <div class="form-group" v-for="(input, index) in $v.inputs.$each.$iter" :key="index">
+            <div class="d-flex flex-row justify-content-between">
+                Введите URL картинки: <input type="text" class="form-control mr-3" v-model="input.data.$model" :class="input.$error ? 'is-invalid': ''"> 
+                <button v-on:click="inputs.splice(index, 1)" style="width:150px">Удалить поле</button>
+            </div>
+            <img :src="input.$error == true ? 'https://i.ytimg.com/vi/KMW-eHIGAE0/maxresdefault.jpg': input.data.$model" width="100" height="100">
+        </div>
+            <button type="button" class="btn btn-primary" v-on:click="downloadImage">Скачать картинки</button>
+            <button type="button" class="btn btn-primary" v-on:click="addInput">Добавить поле для URL</button>
+    </div>
+
+<script>
+    Vue.use(window.vuelidate.default)
+    const { required, url } = window.validators
+
+    var app = new Vue({
+        el: '#app',
+        validations: {
+            inputs: {
+                required,
+                $each: {
+                    data: {
+                        required,
+                        url
+                    }
+                }
+            }
+        },
+
+        data: {
+            stringPathName: window.location,
+            inputs: [{ data: 'https://www.photoschool.kiev.ua/images/easyblog_articles/19/google-search-350.jpg' }, { data: null }]
+        },
+
+        methods: {
+            downloadImage: async function () {
+                let self = this;
+
+                if(self.$v.inputs.$anyError){
+                    alert('Ошибка заполнения Url');
+                    return;
+                }
+
+                for (let i = 0; i < self.inputs.length; i++) {
+                    await axios({
+                        url: window.location + 'Home/DownloadImage',
+                        method: 'GET',
+                        params: {
+                            url: self.inputs[i].data
+                        },
+                        responseType: 'blob',
+                    }).then((response) => {
+                        var fileURL = window.URL.createObjectURL(new Blob([response.data]));
+                        var fileLink = document.createElement('a');
+                        fileLink.href = fileURL;
+                        fileLink.setAttribute('download', 'file.jpg');
+                        document.body.appendChild(fileLink);
+                        fileLink.click();
+                    }).catch((error) => {
+                        console.log(error)
+                    });
+                }
+            },
+
+            addInput: function () {
+                let self = this;
+                self.$v.inputs.$touch();
+                self.inputs.push({ data: null });
+            },
+
+            removeInput: function () {
+                let self = this;
+                self.inputs.splice();
+            }
+        },
+        mounted: function() {
+            let self = this;
+            self.$v.inputs.$touch();
+        }
+
+    });
+</script>
