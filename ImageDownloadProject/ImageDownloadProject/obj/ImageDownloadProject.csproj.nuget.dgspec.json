@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xxramm\\source\\repos\\ImageDownloadProject\\ImageDownloadProject\\ImageDownloadProject.csproj": {}
+    "C:\\Users\\xxramm\\csharp\\ImageDownloadProject\\ImageDownloadProject\\ImageDownloadProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xxramm\\source\\repos\\ImageDownloadProject\\ImageDownloadProject\\ImageDownloadProject.csproj": {
+    "C:\\Users\\xxramm\\csharp\\ImageDownloadProject\\ImageDownloadProject\\ImageDownloadProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xxramm\\source\\repos\\ImageDownloadProject\\ImageDownloadProject\\ImageDownloadProject.csproj",
+        "projectUniqueName": "C:\\Users\\xxramm\\csharp\\ImageDownloadProject\\ImageDownloadProject\\ImageDownloadProject.csproj",
         "projectName": "ImageDownloadProject",
-        "projectPath": "C:\\Users\\xxramm\\source\\repos\\ImageDownloadProject\\ImageDownloadProject\\ImageDownloadProject.csproj",
+        "projectPath": "C:\\Users\\xxramm\\csharp\\ImageDownloadProject\\ImageDownloadProject\\ImageDownloadProject.csproj",
         "packagesPath": "C:\\Users\\xxramm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xxramm\\source\\repos\\ImageDownloadProject\\ImageDownloadProject\\obj\\",
+        "outputPath": "C:\\Users\\xxramm\\csharp\\ImageDownloadProject\\ImageDownloadProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,10 +41,6 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
-            "Grpc.Core": {
-              "target": "Package",
-              "version": "[2.26.0, )"
-            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
