@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f69ErvuDcN/+jip/H7W4jTHBdW+9GtIovhW/cQOCtvwoiO2bTYYW3UAw+xIbRLzj8cgNEQUR7trRQZt7rRX80A==",
+  "success": true,
+  "projectFilePath": "C:\\_vs\\Tests\\FigureMath\\FigureMath\\FigureMath.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KhramovAA\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\KhramovAA\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

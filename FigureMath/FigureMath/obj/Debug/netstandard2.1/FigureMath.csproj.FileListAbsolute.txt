@@ -1,0 +1,9 @@
+C:\_vs\Tests\FigureMath\FigureMath\obj\Debug\netstandard2.1\FigureMath.AssemblyInfoInputs.cache
+C:\_vs\Tests\FigureMath\FigureMath\obj\Debug\netstandard2.1\FigureMath.AssemblyInfo.cs
+C:\_vs\Tests\FigureMath\FigureMath\obj\Debug\netstandard2.1\FigureMath.csproj.CoreCompileInputs.cache
+C:\_vs\Tests\FigureMath\FigureMath\bin\Debug\netstandard2.1\FigureMath.deps.json
+C:\_vs\Tests\FigureMath\FigureMath\bin\Debug\netstandard2.1\FigureMath.dll
+C:\_vs\Tests\FigureMath\FigureMath\bin\Debug\netstandard2.1\FigureMath.pdb
+C:\_vs\Tests\FigureMath\FigureMath\obj\Debug\netstandard2.1\FigureMath.dll
+C:\_vs\Tests\FigureMath\FigureMath\obj\Debug\netstandard2.1\FigureMath.pdb
+C:\_vs\Tests\FigureMath\FigureMath\obj\Debug\netstandard2.1\FigureMath.csproj.AssemblyReference.cache

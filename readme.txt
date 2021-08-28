@@ -8,3 +8,5 @@ Bootstrap - клиентская часть. Предоставляет дост
 MasstransitAndKafka - тестовые программы по шинам данных.
 
 ImageDownloadProject - тестове задание для TTR Logic LLC.
+
+FigureMath - тестовое задание для MindBox.
